@@ -67,8 +67,7 @@ NOTE
 Types
    
 Values in Go are classified into different types, which specify what the values can be used for.
-Math operations and comparisons between different types are not allowed, but you can convert
-a value to a new type if needed.
+Math operations and comparisons between different types are not allowed, but you can convert a value to a new type if needed.
 Go variables can only store values of their declared type.
 ```
 ## BULLET POINTS
